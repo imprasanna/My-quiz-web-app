@@ -1,0 +1,1 @@
+This is a web based quiz app designed by Prasanna Acharya by the use of HTML, CSS and JavaScript.
